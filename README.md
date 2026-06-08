@@ -39,16 +39,21 @@ Regression Model
 
 The final specification follows a multivariate linear regression model:
 
-Y = β₀ + β₁X₁ + β₂X₂ + ··· + β₇X₇ + ε
 
-where:
+Y = β₀ + β₁X₁ + β₂X₂ + β₃X₃ + β₄X₄ + β₅X₅ + β₆X₆ + ε
+
+Where:
 
 - Y = Log unit housing price
-- Xi = Explanatory variables
-- βi = Regression coefficients
+- X₁ = Distance from city center
+- X₂ = Government subsidy
+- X₃ = Construction year
+- X₄ = Construction area
+- X₅ = Land area
+- X₆ = Affordable municipality dummy
 - ε = Error term
 
-Robust standard errors were used to address heteroskedasticity.
+Robust standard errors were employed to address heteroskedasticity.
 
 
 
