@@ -74,6 +74,5 @@ Logarithmic Transformations
 ## Author
 
 Dulce De La Paz Ortiz
-
-Mexico City, Mexico
+Paris, France
 
