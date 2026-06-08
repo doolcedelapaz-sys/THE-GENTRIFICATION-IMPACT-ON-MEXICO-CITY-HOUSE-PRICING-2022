@@ -39,18 +39,18 @@ Regression Model
 
 The final specification follows a multivariate linear regression model:
 
-\[
-Y = \beta_0 + \beta_1 X_1 + \beta_2 X_2 + \cdots + \beta_7 X_7 + \varepsilon
-\]
+Y = β₀ + β₁X₁ + β₂X₂ + ··· + β₇X₇ + ε
 
 where:
 
-- \(Y\) = Log unit housing price
-- \(X_i\) = Explanatory variables
-- \(\beta_i\) = Regression coefficients
-- \(\varepsilon\) = Error term
+- Y = Log unit housing price
+- Xi = Explanatory variables
+- βi = Regression coefficients
+- ε = Error term
 
 Robust standard errors were used to address heteroskedasticity.
+
+
 
 ## Main Conclusion
 The results suggest that gentrification contributes to the appreciation of housing values in several Mexico City municipalities, particularly in areas experiencing urban redevelopment and increased investment.
@@ -66,8 +66,9 @@ Robust Standard Errors
 Exploratory Data Analysis
 Logarithmic Transformations
 
-###Author
+## Author
 
 Dulce De La Paz Ortiz
+
 Mexico City, Mexico
 
